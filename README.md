@@ -4,3 +4,6 @@
 <MARIA DA ROÇA>
 Encontre produtos artesanais e um lugar feliz de passar um tempo
 <p><em> Nossa missão é atender seu desejo de sentir o sabor da natureza em todos os sentido<em/>,p/>
+
+
+<img src="banner.jpg">
