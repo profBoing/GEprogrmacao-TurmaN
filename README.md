@@ -1,5 +1,5 @@
  GEprogrmacao-TurmaN
- <h3>momento 1<h3/>
+ <h3>Momento 1<h3/>
 <P>O projeto é resultado dos estudos realizados no Curso - GRUPO DE ESTUDOS DOS PROFESSORES DO ESTUDO DO PARANÁ.<P/>
 <MARIA DA ROÇA>
 <p {
