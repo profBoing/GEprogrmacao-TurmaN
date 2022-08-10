@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>MARIA DA ROÇA</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1 style="text-align: center"> MARIA DA ROÇA</h1>
+
+        <img id="imagemprincipal" src="maria da roça.jpg">
+
+        <p>Localizada no campo,no meu lugar de vida <strong>os produtos da MARIA DA ROÇA</strong> traz para o mercado o que há de melhor em produtos com valor agregado de alimentos naturais produzidos artesanalmente. 
+        Fundada em 2008, a MARIA DA ROÇA será um alimento diário em sua mesa.</p>
+
+        <p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar uma experieência única aos clientes"</strong>.</em></p>
+
+        <p>Oferecemos produtos de acordo com cada época do ano respeitando os ciclos da natureza. 
+        O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+         </body>
+
