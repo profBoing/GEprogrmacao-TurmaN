@@ -18,5 +18,21 @@
 
         <p>Oferecemos produtos de acordo com cada época do ano respeitando os ciclos da natureza. 
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
-         </body>
+
+        <div>
+            
+        <ul> class="font-size;12 mercadorias" </ul>
+                    <li>CONSERVAS DOCES</li>
+                    <li>CONSERVAS SALGADAS (CHUCRUTE E BETERRABA)</li> 
+                    <li>MEL DE ABELHA EUROPA</li>
+                    </ul>
+
+
+                    <ol>
+                    <li>MEL DE ABELHA JATAÍ</li>
+                    <li>TEMPEROS DESIDRATADOS EM GERAL<li> 
+                    </ol>
+        </div>
+
+     </body>
 
