@@ -1,11 +1,22 @@
- GEprogrmacao-TurmaN
- <h3>Momento 1<h3/>
-<P>O projeto é resultado dos estudos realizados no Curso - GRUPO DE ESTUDOS DOS PROFESSORES DO ESTUDO DO PARANÁ.<P/>
-<MARIA DA ROÇA>
-<p {
-  color: red;
-  text-align: center;Encontre produtos artesanais e um lugar feliz de passar um tempo
-<p><em> Nossa missão é atender seu desejo de sentir o sabor da natureza em todos os sentido<em/>,p/>
 
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>PRODUTOS MARIA DA ROÇA</title>
+        <link rel="stylesheet" href="produtos.css">
+    </head>
+    <body>
+        <header>
+            <h1><img src="logo.png"></h1>
+
+            <ul>
+                <li>Home</li>
+                <li>Produtos</li>
+                <li>Contato</li>
+            </ul>
+        </header>
+    </body>
+</html>
 
