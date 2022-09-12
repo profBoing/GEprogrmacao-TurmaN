@@ -7,9 +7,13 @@
         <title>PRODUTOS MARIA DA ROÇA</title>
         <link rel="stylesheet" href="produtos.css">
     </head>
+    
     <body>
         <header>
-            <h1><img src="logo.png"></h1>
+            <h1><
+                
+                   
+             "></h1>
 
             <ul>
                 <li>Home</li>
